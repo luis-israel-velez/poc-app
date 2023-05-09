@@ -1,0 +1,2 @@
+{"sourcePath" : "gs://gcp-prototype-gcs/landing/yellow_tripdata_small.csv", "sourceFormat" : "csv", "destPath" : "taxi_data", "keyField" : "VendorID"}
+

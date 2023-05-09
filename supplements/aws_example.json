@@ -1,0 +1,2 @@
+{"sourcePath" : "s3a://aws-prototype-s3/landing/yellow_tripdata_small.csv", "sourceFormat" : "csv", "destPath" : "taxi_data", "keyField" : "VendorID"}
+
